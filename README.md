@@ -13,3 +13,5 @@ Slider Fuerza	10 – 300 N	Fuerza que actúa a lo largo del cañón (3 m)
 Slider Masa	1 – 10 kg	Masa del Rigidbody del proyectil
 Botón DISPARAR	–	Lanza el proyectil (deshabilitado mientras dura el intento)
 Botón REINICIAR	–	Reconstruye las estructuras
+VIDEO DE YT
+https://www.youtube.com/watch?v=sWRGt1jVixY
